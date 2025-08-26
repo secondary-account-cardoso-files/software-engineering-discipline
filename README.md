@@ -15,7 +15,9 @@ Este repositório contém meus estudos, anotações e exercícios realizados dur
 - [Aula 02](#aula-02)
   - [Modelos de Processo de Software](#modelos-de-processo-de-software)
   - [Exercício da Aula 02](#exercício-da-aula-02)
-- [Próximas aulas](#próximas-aulas)
+- [Aula 03](#aula-03)
+  - [O que são requisitos?](#engenharia-de-requisitos)
+  - [Exercício da Aula 03](#exercício-da-aula-03)
 
 ---
 
@@ -228,7 +230,9 @@ Cria protótipos para entender os requisitos do cliente.
 
 ---
 
-## Aula 03 – Engenharia de Requisitos
+## Aula 03
+
+### Engenharia de Requisitos
 
 ### 🧩 O que são requisitos?
 
