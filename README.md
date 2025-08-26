@@ -228,9 +228,103 @@ Cria protótipos para entender os requisitos do cliente.
 
 ---
 
-## Próximas aulas
+## Aula 03 – Engenharia de Requisitos
 
-- [ ] Aula 03: _(Adicionar tópicos e exercícios aqui)_
+### 🧩 O que são requisitos?
+
+Requisito é a descrição das funções e restrições de um sistema — aquilo que precisa ser atendido para satisfazer uma necessidade ou contrato. Eles podem salvar ou "enterrar" um projeto, dependendo da qualidade com que são levantados e especificados.
+
+**Definição IEEE (1990):**
+
+- Capacidade que o usuário precisa para atingir um objetivo;
+- Capacidade que um sistema/componente deve possuir para cumprir um contrato/padrão;
+- O conjunto que serve de base para o desenvolvimento subsequente.
+
+Escrever requisitos não é simples: lidamos com pessoas, linguagem natural, subjetividade e incertezas. Cabe ao time traduzir o que o cliente de fato precisa.
+
+### 🧭 Tipos de requisitos
+
+**Requisitos do Usuário** (alto nível): em linguagem natural, focados no que o sistema deve fornecer.
+
+**Requisitos de Sistema** (detalhados): contrato formal com funções e restrições detalhadas.
+
+**Classificação por natureza:**
+
+- **Funcionais (RF)**: o que o sistema deve fazer (tarefas/serviços, reações a entradas/situações). Não tratam de implementação.
+- **Não Funcionais (RNF)**: qualidades/restrições (tempo, desempenho, padrões, disponibilidade etc.). Útil manter checklist RNF.
+- **Inversos (RI)**: condições que não podem ocorrer (o que o sistema não deve fazer). Ex.: "não permitir vendas retroativas".
+
+### 🔎 Elicitação (Levantamento) de requisitos
+
+A linguagem natural é a mais comum, mas traz riscos de ambiguidade, flexibilidade excessiva e fusão de vários requisitos em um só.
+
+**Boas práticas de escrita:**
+
+- Frases diretas, vocabulário limitado, sem ambiguidade;
+- Evitar sentenças longas, "ou", termos vagos;
+- Destacar partes críticas.
+
+Pergunte "por quê?" para revelar o requisito real (ex.: "a cafeteira deve ser inquebrável", não "de aço").
+
+**Técnicas de elicitação:**
+
+- **Entrevistas** (fechadas/abertas) — simples e eficazes na fase inicial;
+- **Questionários** — úteis para muitos grupos/locais;
+- **Brainstorming** — geração livre de ideias, depois priorização.
+
+### 📝 Especificação de requisitos
+
+É a documentação dos requisitos; o formato varia por empresa, mas deve focar o cliente (linguagem de negócio, não técnica, e sem detalhes de implementação/código). Documentação não substitui comunicação.
+
+**Estruturas comuns (IEEE – geral):**
+
+- Introdução (objetivo, escopo, referências, glossário);
+- Descrição geral (perfil dos usuários, restrições);
+- Requisitos (RF, RNF, RI);
+- Índice.
+
+**Erro comum**: escrever para a equipe técnica, com trechos de código — mantenha a visão de cliente.
+
+### ⚙️ Processo de Engenharia de Requisitos
+
+Conjunto de atividades para descobrir, analisar, documentar e verificar requisitos.
+
+**Etapas e pontos-chave:**
+
+- **Estudo de viabilidade**: contribuição do sistema, tecnologia disponível, prazos/custos, integração.
+- **Levantamento & Análise**: interação com stakeholders (usuários, gerentes, analistas), classificação, organização, priorização e documentação.
+- **Validação/Verificação**: conferir se refletem o que os stakeholders desejam; padronizar linguagem; evitar falhas de comunicação.
+- **Resolução de conflitos**: requisitos podem ser contraditórios (ex.: RF que manda/impede algo). Decidir com o cliente.
+- **Priorização**: tratar primeiro o que é mais urgente/valioso.
+
+### 🧪 Prototipação
+
+Apoia elicitação e validação principalmente quando há incerteza ou necessidade de feedback rápido. Pode ir de sketches à mão a ferramentas como Figma, Axure, InVision, Adobe XD, Framer, Proto.io, Zeplin etc.
+
+### 🚧 Problemas frequentes
+
+- Usuários não sabem exatamente o que querem;
+- Vocabulário diferente entre áreas (negócio x TI);
+- Conflitos entre grupos;
+- Mudanças no ambiente de negócio durante a análise.
+
+### ✅ Conclusão
+
+Natural focarmos em RF, mas falhas em RNF/RI, comunicação ou priorização podem determinar o sucesso ou fracasso do software.
+
+### 🧭 Atividade (Trabalho 3 – Parte da V1)
+
+Elaborar um Documento de Especificação de Requisitos para o projeto final da V1, contendo:
+
+- Capa (nome do sistema + analista/aluno);
+- Introdução (objetivo do documento/projeto);
+- Glossário (siglas/termos);
+- Requisitos Funcionais;
+- Requisitos Não Funcionais;
+- Requisitos Inversos (opcional);
+- Protótipo(s): pelo menos 2 telas.
+
+**Referências**: Pressman (2016), Sommerville (2019).
 
 ---
 
