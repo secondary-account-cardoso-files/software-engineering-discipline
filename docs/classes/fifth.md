@@ -16,7 +16,7 @@ Este material didático, baseado na apresentação da _[Profa. Dra. Luciene Chag
 
 ---
 
-## 📚 Menu de Navegação
+## Menu de Navegação
 
 - [Engenharia de Requisitos: Uma Visão Geral](#engenharia-de-requisitos-uma-visão-geral)
 - [Gerenciamento de Requisitos](#gerenciamento-de-requisitos)
@@ -41,7 +41,7 @@ A Engenharia de Requisitos é uma área da Engenharia de Software que se divide 
 
 ---
 
-<div align="right">[⬆️ Voltar ao topo](#📚-menu-de-navegação)</div>
+<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
 
 ---
 
@@ -80,7 +80,7 @@ Um processo formal para gerenciar mudanças é essencial.
 
 ---
 
-<div align="right">[⬆️ Voltar ao topo](#📚-menu-de-navegação)</div>
+<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
 
 ## Rastreabilidade de Requisitos
 
@@ -99,7 +99,7 @@ A rastreabilidade é fundamental para:
 
 ---
 
-<div align="right">[⬆️ Voltar ao topo](#📚-menu-de-navegação)</div>
+<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
 
 ## Matriz de Rastreabilidade
 
@@ -113,7 +113,7 @@ A matriz geralmente contém um identificador único para cada requisito, seu tí
 
 ---
 
-<div align="right">[⬆️ Voltar ao topo](#📚-menu-de-navegação)</div>
+<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
 
 ## Ferramentas para Gerência de Requisitos
 

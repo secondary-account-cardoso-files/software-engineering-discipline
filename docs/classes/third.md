@@ -77,7 +77,7 @@ Descrevem condições que não devem ocorrer ou o que o sistema **NÃO** deve fa
   - `[RI-10]` O sistema não deve ser acessado pela internet.
   - `[RI-25]` O sistema não deve permitir vendas com datas retroativas.
 
-<div align="right">[⬆️ Voltar ao topo](#📚-menu-de-navegação)</div>
+<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
 
 ---
 
@@ -108,7 +108,7 @@ O processo pode ser dividido nas seguintes atividades principais:
 - Requisitos de diferentes usuários podem ser conflitantes.
 - O ambiente de negócio pode mudar durante o processo.
 
-<div align="right">[⬆️ Voltar ao topo](#📚-menu-de-navegação)</div>
+<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
 
 ---
 
