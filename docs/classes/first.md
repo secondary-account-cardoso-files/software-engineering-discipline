@@ -10,6 +10,9 @@ Este material oferece uma introdução aos conceitos fundamentais da Engenharia 
 
 ![Engenharia de Software](https://img.shields.io/badge/Engenharia%20de%20Software-Fundamentos-0078D4?style=for-the-badge&logo=azuredevops)
 ![Aula 01](https://img.shields.io/badge/Aula-01-blue?style=for-the-badge)
+
+<br />
+
 [⬅️ Voltar ao README Principal](../../README.md)
 
 </div>
@@ -43,7 +46,11 @@ Software é a parte lógica de um computador. De forma mais completa, é um conj
 - Diferente do hardware, o software não sofre desgaste físico.
 - A construção de um software é, em geral, uma solução exclusiva para um problema específico.
 
-<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
@@ -74,7 +81,11 @@ Também chamadas de Modelo de Processo de Software, descrevem como o processo fu
 - RUP (Rational Unified Process)
 - Scrum
 
-<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
@@ -97,7 +108,11 @@ Essa crise evidenciou a importância de uma abordagem de engenharia para o desen
 - **Testes de Sistema:** 30-70x
 - **Operação de Campo:** 40-1000x
 
-<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
@@ -116,7 +131,11 @@ Os sistemas podem ser classificados de acordo com sua finalidade e característi
 | **Jogos**                      | Aplicações de entretenimento, que podem variar de simples a extremamente complexos, exigindo alto desempenho gráfico e de processamento. |
 | **Inteligência Artificial**    | Sistemas especialistas e redes neurais capazes de aprendizado, que podem ser independentes ou integrados a outros sistemas.              |
 
-<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
@@ -130,7 +149,11 @@ A Engenharia de Software se apoia em cinco pilares fundamentais:
 4.  **Processo (Process):** O conjunto de atividades que transformam os requisitos do usuário no produto final.
 5.  **Ferramentas (Tools):** Softwares que auxiliam na automação das atividades do processo, como ferramentas CASE e de gerenciamento de projetos.
 
-<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
@@ -159,7 +182,11 @@ Existem diversas crenças equivocadas sobre o desenvolvimento de software que po
 - **Mito:** Mudanças são fáceis de fazer porque software é flexível.
   - **Realidade:** O custo e o impacto de uma mudança dependem de quando ela é solicitada. Mudanças tardias podem ser extremamente caras e complexas.
 
-<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 

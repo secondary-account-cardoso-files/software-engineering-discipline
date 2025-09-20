@@ -26,7 +26,6 @@ Este repositório contém meus estudos, anotações e exercícios realizados dur
 - [Aula 03 - Levantamento de Requisitos](/docs/classes/third.md)
 - [Aula 04 - Metodologias RUP, XP e Scrum](/docs/classes/fourth.md)
 - [Aula 05 - Gerência de Requisitos](/docs/classes/fifth.md)
-- [Aula 06](/docs/classes/sixth.md)
 
 ### 📝 Atividades
 

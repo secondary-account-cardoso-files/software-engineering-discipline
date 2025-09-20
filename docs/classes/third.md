@@ -10,6 +10,9 @@ Este material didático, baseado na apresentação da Profa. Dra. Luciene Chagas
 
 ![Engenharia de Software](https://img.shields.io/badge/Engenharia%20de%20Software-Requisitos-0078D4?style=for-the-badge&logo=azuredevops)
 ![Aula 03](https://img.shields.io/badge/Aula-03-blue?style=for-the-badge)
+
+<br />
+
 [⬅️ Voltar ao README Principal](../../README.md)
 
 </div>
@@ -37,7 +40,11 @@ De acordo com a norma IEEE-90, requisitos são:
 
 Em resumo, escrever requisitos é o processo de traduzir os desejos e necessidades do cliente em artefatos concretos que a equipe de desenvolvimento possa utilizar. Esta não é uma tarefa simples, pois envolve lidar com a subjetividade e as incertezas da comunicação humana. Cabe ao engenheiro de software capturar as reais necessidades do cliente e transformá-las em requisitos que o satisfaçam.
 
-<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
@@ -77,7 +84,11 @@ Descrevem condições que não devem ocorrer ou o que o sistema **NÃO** deve fa
   - `[RI-10]` O sistema não deve ser acessado pela internet.
   - `[RI-25]` O sistema não deve permitir vendas com datas retroativas.
 
-<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
@@ -108,7 +119,11 @@ O processo pode ser dividido nas seguintes atividades principais:
 - Requisitos de diferentes usuários podem ser conflitantes.
 - O ambiente de negócio pode mudar durante o processo.
 
-<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 

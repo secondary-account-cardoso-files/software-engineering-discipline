@@ -8,6 +8,9 @@ Este material, baseado na apresentação da Profa. Dra. Luciene Chagas de Olivei
 
 ![Engenharia de Software](https://img.shields.io/badge/Engenharia%20de%20Software-Metodologias-0078D4?style=for-the-badge&logo=azuredevops)
 ![Aula 02](https://img.shields.io/badge/Aula-02-blue?style=for-the-badge)
+
+<br />
+
 [⬅️ Voltar ao README Principal](../../README.md)
 
 </div>
@@ -41,7 +44,11 @@ Alguns dos principais modelos (ou paradigmas) são:
 - Desenvolvimento Orientado a Reuso
 - Modelo de Prototipação
 
-<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
@@ -69,7 +76,11 @@ O Modelo em Cascata foi o primeiro modelo de desenvolvimento de software, surgin
 - Projetos reais raramente seguem o fluxo sequencial proposto.
 - O cliente precisa esperar até o final do projeto para ter uma versão executável do programa.
 
-<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
@@ -93,7 +104,11 @@ Este modelo se baseia na ideia de desenvolver uma implementação inicial, apres
 - Os sistemas podem se tornar mal estruturados devido a mudanças constantes que corrompem a arquitetura.
 - É difícil para os gerentes medirem o esforço, pois o desenvolvimento não é regular.
 
-<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
@@ -112,7 +127,11 @@ O Modelo Incremental combina elementos dos modelos em cascata e evolucionário. 
 - É difícil mapear os requisitos do cliente em incrementos do tamanho correto.
 - Em sistemas complexos, pode ser difícil garantir que as diferentes partes (incrementos) se encaixem corretamente.
 
-<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
@@ -130,7 +149,11 @@ Criado em 1988, o Modelo Espiral é representado como uma espiral, onde cada vol
 
 - Existe o risco de o processo se estender indefinidamente e nunca terminar.
 
-<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
@@ -142,7 +165,11 @@ Diferente do modelo em cascata, o processo de desenvolvimento, implementação e
 
 É uma abordagem adequada para sistemas que exigem alta segurança e confiabilidade, mas necessita de perícia especializada e pode não trazer ganhos significativos para a maioria dos outros sistemas.
 
-<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
@@ -160,7 +187,11 @@ Este modelo formaliza o reuso de componentes de software para acelerar a produç
 - **Vantagens:** Reduz custos e riscos ao diminuir a quantidade de software a ser desenvolvido e acelera a entrega.
 - **Desvantagens:** Os requisitos podem ser comprometidos durante a adaptação, e pode-se perder o controle sobre as versões dos componentes reutilizados.
 
-<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 

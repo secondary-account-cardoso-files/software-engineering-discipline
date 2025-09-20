@@ -10,6 +10,9 @@ Este material didático, baseado na apresentação da _[Profa. Dra. Luciene Chag
 
 ![Engenharia de Software](https://img.shields.io/badge/Engenharia%20de%20Software-Ger%C3%AAncia%20e%20Rastreabilidade-0078D4?style=for-the-badge&logo=azuredevops)
 ![Aula 05](https://img.shields.io/badge/Aula-05-blue?style=for-the-badge)
+
+<br />
+
 [⬅️ Voltar ao README Principal](../../README.md)
 
 </div>
@@ -41,7 +44,11 @@ A Engenharia de Requisitos é uma área da Engenharia de Software que se divide 
 
 ---
 
-<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
@@ -80,7 +87,11 @@ Um processo formal para gerenciar mudanças é essencial.
 
 ---
 
-<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ## Rastreabilidade de Requisitos
 
@@ -99,7 +110,11 @@ A rastreabilidade é fundamental para:
 
 ---
 
-<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ## Matriz de Rastreabilidade
 
@@ -113,7 +128,11 @@ A matriz geralmente contém um identificador único para cada requisito, seu tí
 
 ---
 
-<div align="right">[⬆️ Voltar ao topo](#menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ## Ferramentas para Gerência de Requisitos
 
