@@ -32,11 +32,19 @@ Inclui sumário de navegação para o README.md principal e uso criativo de imag
 - [7. Modelo de Prototipação](#7-modelo-de-prototipação)
 - [8. Extreme Programming (XP)](#8-extreme-programming-xp)
 - [9. Scrum](#9-scrum)
+- [10. Kanban](#10-kanban)
+- [11. Test Driven Development (TDD)](#11-test-driven-development-tdd)
+- [12. Lean](#12-lean)
+- [13. Spotify](#13-spotify)
 
 ---
 
 <!-- Navegação entre sessões -->
-<div align="right">[⬆️ Voltar ao topo](#sumário)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ## 1. Modelo em Cascata (Tradicional)
 
@@ -64,7 +72,11 @@ O Modelo em Cascata, surgido em 1970, é o mais antigo e propõe um fluxo sequen
 ❌ Pouca flexibilidade  
 ❌ Entrega só ao final do projeto
 
-<div align="right">[⬆️ Voltar ao topo](#sumário)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
@@ -90,7 +102,11 @@ Baseia-se em criar uma implementação inicial, obter feedback do usuário e apr
 ❌ Arquitetura pode ser comprometida  
 ❌ Difícil medir esforço
 
-<div align="right">[⬆️ Voltar ao topo](#sumário)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
@@ -111,7 +127,11 @@ Combina elementos do cascata e evolutivo. Funcionalidades são priorizadas e ent
 ❌ Difícil definir tamanho dos incrementos  
 ❌ Integração pode ser problemática em sistemas complexos
 
-<div align="right">[⬆️ Voltar ao topo](#sumário)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
@@ -131,7 +151,11 @@ Criado por Barry Boehm em 1988, é representado como uma espiral, com análise d
 **Desvantagem:**  
 ❌ Risco de nunca terminar se mal gerenciado
 
-<div align="right">[⬆️ Voltar ao topo](#sumário)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
@@ -151,7 +175,11 @@ Baseia-se na transformação matemática da especificação em código executáv
 ❌ Exige especialistas  
 ❌ Pouco ganho para sistemas comuns
 
-<div align="right">[⬆️ Voltar ao topo](#sumário)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
@@ -178,7 +206,11 @@ Foca no reaproveitamento de componentes existentes para acelerar o desenvolvimen
 ❌ Requisitos podem ser comprometidos  
 ❌ Controle de versões é desafiador
 
-<div align="right">[⬆️ Voltar ao topo](#sumário)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
@@ -204,7 +236,11 @@ Utiliza protótipos para identificar e validar requisitos, útil quando o client
 **Desvantagem:**  
 ❌ Risco de usar o protótipo como produto final
 
-<div align="right">[⬆️ Voltar ao topo](#sumário)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
@@ -233,7 +269,11 @@ Metodologia ágil criada por Kent Beck para equipes com requisitos mutáveis. Le
 - **Small Releases:** Entregas pequenas e frequentes
 - **On-Site Customer:** Cliente sempre disponível
 
-<div align="right">[⬆️ Voltar ao topo](#sumário)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
@@ -258,13 +298,144 @@ Framework ágil para projetos complexos, baseado em experiência, trabalho em eq
 - **Scrum Master:** Garante o processo e remove impedimentos
 - **Time:** Equipe auto-gerenciável responsável pelas entregas
 
-<div align="right">[⬆️ Voltar ao topo](#sumário)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
+
+---
+
+## 10. Kanban
+
+<div align="center">
+  <img src="https://img.icons8.com/color/480/000000/kanban.png" alt="Kanban" width="100"/>
+</div>
+
+O Kanban é um método visual de gerenciamento de trabalho que utiliza quadros e cartões para representar tarefas e seu progresso. Originado no sistema Toyota de produção, foi adaptado para o desenvolvimento de software e equipes ágeis.
+
+**Princípios:**
+
+- Visualização do fluxo de trabalho (to do, doing, done)
+- Limitação do trabalho em progresso (WIP)
+- Foco na melhoria contínua
+
+**Vantagens:**  
+✔️ Fácil de implementar  
+✔️ Transparência do fluxo  
+✔️ Adaptável a diferentes contextos
+
+**Desvantagens:**  
+❌ Não define papéis ou cerimônias  
+❌ Pode ser difícil limitar WIP em equipes grandes
+
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
+
+---
+
+## 11. Test Driven Development (TDD)
+
+<div align="center">
+  <img src="https://img.icons8.com/color/480/000000/test-passed.png" alt="TDD" width="100"/>
+</div>
+
+O TDD é uma prática de desenvolvimento onde os testes são escritos antes do código de produção. O ciclo é: escrever um teste, implementar o código para passar no teste, refatorar.
+
+**Ciclo TDD:**
+
+1. Escrever um teste que falha
+2. Implementar o código mínimo para passar no teste
+3. Refatorar o código mantendo os testes verdes
+
+**Vantagens:**  
+✔️ Código mais testável e confiável  
+✔️ Reduz bugs  
+✔️ Documentação viva do sistema
+
+**Desvantagens:**  
+❌ Curva de aprendizado  
+❌ Pode aumentar o tempo inicial de desenvolvimento
+
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
+
+---
+
+## 12. Lean
+
+<div align="center">
+  <img src="https://img.icons8.com/color/480/000000/lean-startup.png" alt="Lean" width="100"/>
+</div>
+
+O Lean é uma filosofia de gestão focada na eliminação de desperdícios e na entrega de valor ao cliente. Adaptado do Lean Manufacturing para o desenvolvimento de software, enfatiza ciclos curtos, feedback rápido e melhoria contínua.
+
+**Princípios:**
+
+- Eliminar desperdícios
+- Amplificar aprendizado
+- Decidir o mais tarde possível
+- Entregar o mais rápido possível
+- Empoderar o time
+- Construir qualidade
+
+**Vantagens:**  
+✔️ Foco em valor  
+✔️ Redução de desperdícios  
+✔️ Melhoria contínua
+
+**Desvantagens:**  
+❌ Requer mudança de cultura  
+❌ Difícil mensurar desperdícios em software
+
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
+
+---
+
+## 13. Spotify
+
+<div align="center">
+  <img src="https://img.icons8.com/color/480/000000/spotify--v1.png" alt="Spotify Model" width="100"/>
+</div>
+
+O Modelo Spotify é uma abordagem de organização ágil criada pela empresa Spotify para escalar equipes de desenvolvimento. Baseia-se em squads (equipes multidisciplinares), chapters (comunidades de prática), tribes (grupos de squads) e guilds (grupos de interesse).
+
+**Características:**
+
+- Autonomia e alinhamento das squads
+- Cultura de inovação e colaboração
+- Estrutura flexível e adaptável
+
+**Vantagens:**  
+✔️ Escalabilidade ágil  
+✔️ Foco em cultura e pessoas  
+✔️ Inovação contínua
+
+**Desvantagens:**  
+❌ Pode ser difícil de implementar em empresas tradicionais  
+❌ Requer maturidade ágil e autonomia das equipes
+
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 ---
 
 <div align="center">
 
-> _Nota: Kanban, TDD, Lean e Spotify não foram abordados nos materiais de aula fornecidos._
+> _Nota: Os métodos Kanban, TDD, Lean e Spotify são abordagens modernas e complementares às metodologias tradicionais e ágeis._
 
 [⬅️ Voltar ao README Principal](../../README.md)
 
