@@ -21,7 +21,7 @@ Inclui sumário de navegação para o README.md principal e uso criativo de imag
 
 ---
 
-## 📚 Sumário
+## Sumário
 
 - [1. Modelo em Cascata (Tradicional)](#1-modelo-em-cascata-tradicional)
 - [2. Modelo Evolucionário (Evolutivo)](#2-modelo-evolucionário-evolutivo)
@@ -42,7 +42,7 @@ Inclui sumário de navegação para o README.md principal e uso criativo de imag
 <!-- Navegação entre sessões -->
 <div align="right">
 
-[⬆️ Voltar ao topo](#menu-de-navegação)
+[⬆️ Voltar ao topo](#sumário)
 
 </div>
 
@@ -74,7 +74,7 @@ O Modelo em Cascata, surgido em 1970, é o mais antigo e propõe um fluxo sequen
 
 <div align="right">
 
-[⬆️ Voltar ao topo](#menu-de-navegação)
+[⬆️ Voltar ao topo](#sumário)
 
 </div>
 
@@ -104,7 +104,7 @@ Baseia-se em criar uma implementação inicial, obter feedback do usuário e apr
 
 <div align="right">
 
-[⬆️ Voltar ao topo](#menu-de-navegação)
+[⬆️ Voltar ao topo](#sumário)
 
 </div>
 
@@ -129,7 +129,7 @@ Combina elementos do cascata e evolutivo. Funcionalidades são priorizadas e ent
 
 <div align="right">
 
-[⬆️ Voltar ao topo](#menu-de-navegação)
+[⬆️ Voltar ao topo](#sumário)
 
 </div>
 
@@ -153,7 +153,7 @@ Criado por Barry Boehm em 1988, é representado como uma espiral, com análise d
 
 <div align="right">
 
-[⬆️ Voltar ao topo](#menu-de-navegação)
+[⬆️ Voltar ao topo](#sumário)
 
 </div>
 
@@ -177,7 +177,7 @@ Baseia-se na transformação matemática da especificação em código executáv
 
 <div align="right">
 
-[⬆️ Voltar ao topo](#menu-de-navegação)
+[⬆️ Voltar ao topo](#sumário)
 
 </div>
 
@@ -208,7 +208,7 @@ Foca no reaproveitamento de componentes existentes para acelerar o desenvolvimen
 
 <div align="right">
 
-[⬆️ Voltar ao topo](#menu-de-navegação)
+[⬆️ Voltar ao topo](#sumário)
 
 </div>
 
@@ -238,7 +238,7 @@ Utiliza protótipos para identificar e validar requisitos, útil quando o client
 
 <div align="right">
 
-[⬆️ Voltar ao topo](#menu-de-navegação)
+[⬆️ Voltar ao topo](#sumário)
 
 </div>
 
@@ -271,7 +271,7 @@ Metodologia ágil criada por Kent Beck para equipes com requisitos mutáveis. Le
 
 <div align="right">
 
-[⬆️ Voltar ao topo](#menu-de-navegação)
+[⬆️ Voltar ao topo](#sumário)
 
 </div>
 
@@ -300,7 +300,7 @@ Framework ágil para projetos complexos, baseado em experiência, trabalho em eq
 
 <div align="right">
 
-[⬆️ Voltar ao topo](#menu-de-navegação)
+[⬆️ Voltar ao topo](#sumário)
 
 </div>
 
@@ -331,7 +331,7 @@ O Kanban é um método visual de gerenciamento de trabalho que utiliza quadros e
 
 <div align="right">
 
-[⬆️ Voltar ao topo](#menu-de-navegação)
+[⬆️ Voltar ao topo](#sumário)
 
 </div>
 
@@ -362,7 +362,7 @@ O TDD é uma prática de desenvolvimento onde os testes são escritos antes do c
 
 <div align="right">
 
-[⬆️ Voltar ao topo](#menu-de-navegação)
+[⬆️ Voltar ao topo](#sumário)
 
 </div>
 
@@ -396,7 +396,7 @@ O Lean é uma filosofia de gestão focada na eliminação de desperdícios e na 
 
 <div align="right">
 
-[⬆️ Voltar ao topo](#menu-de-navegação)
+[⬆️ Voltar ao topo](#sumário)
 
 </div>
 
@@ -427,7 +427,7 @@ O Modelo Spotify é uma abordagem de organização ágil criada pela empresa Spo
 
 <div align="right">
 
-[⬆️ Voltar ao topo](#menu-de-navegação)
+[⬆️ Voltar ao topo](#sumário)
 
 </div>
 

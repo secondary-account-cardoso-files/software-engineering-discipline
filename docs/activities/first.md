@@ -8,7 +8,7 @@
 
 ---
 
-## 📚 Menu de Navegação
+## Menu de Navegação
 
 - [O que é um software?](#1-o-que-é-um-software)
 - [O que é a Engenharia de Software?](#2-o-que-é-a-engenharia-de-software)
@@ -25,13 +25,21 @@
 
 Software é um conjunto de instruções, dados ou programas utilizados para operar computadores e executar tarefas específicas. Pode ser composto por aplicativos, sistemas operacionais, utilitários, entre outros.
 
-<div align="right">[⬆️ Voltar ao topo](#📚-menu-de-navegação)</div>
+<div a<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 #### 2. O que é a Engenharia de Software?
 
 Engenharia de Software é uma área da computação dedicada à especificação, desenvolvimento, manutenção e gerenciamento de software, utilizando princípios, métodos e boas práticas para garantir qualidade, eficiência e confiabilidade.
 
-<div align="right">[⬆️ Voltar ao topo](#📚-menu-de-navegação)</div>
+<div a<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 #### 3. Vantagens e Desvantagens (importância do Software e da Engenharia de Software)
 
@@ -48,7 +56,11 @@ Engenharia de Software é uma área da computação dedicada à especificação,
 - Custos de desenvolvimento e manutenção
 - Riscos de falhas e bugs
 
-<div align="right">[⬆️ Voltar ao topo](#📚-menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 #### 4. Tipos de Softwares
 
@@ -57,13 +69,21 @@ Engenharia de Software é uma área da computação dedicada à especificação,
 - Software de Programação (ex: compiladores, IDEs)
 - Software Embarcado (ex: sistemas em dispositivos eletrônicos)
 
-<div align="right">[⬆️ Voltar ao topo](#📚-menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 #### 5. Qual é a importância dos tipos de softwares para a empresa ou pessoa?
 
 Cada tipo de software atende a necessidades específicas, otimizando processos, aumentando a produtividade e facilitando a vida de pessoas e empresas. Por exemplo, softwares de gestão auxiliam empresas no controle de recursos, enquanto aplicativos de comunicação conectam pessoas.
 
-<div align="right">[⬆️ Voltar ao topo](#📚-menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 #### 6. Exemplos de código com TypeScript
 
@@ -76,13 +96,21 @@ function saudacao(nome: string): string {
 console.log(saudacao("Maria"));
 ```
 
-<div align="right">[⬆️ Voltar ao topo](#📚-menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 #### 7. Evolução dos Softwares
 
 Os softwares evoluíram de programas simples e específicos para sistemas complexos, integrados e distribuídos, acompanhando o avanço do hardware e das necessidades humanas e empresariais.
 
-<div align="right">[⬆️ Voltar ao topo](#📚-menu-de-navegação)</div>
+<div align="right">
+
+[⬆️ Voltar ao topo](#menu-de-navegação)
+
+</div>
 
 #### 8. Mitos dos Softwares
 
