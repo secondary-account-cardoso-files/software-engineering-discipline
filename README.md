@@ -1,4 +1,4 @@
-# ⚙️ Engenharia de Software - Unitri
+# ⚙️ Engenharia de Software
 
 <div align="center">
 
